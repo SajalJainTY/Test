@@ -1,0 +1,19 @@
+Started by user [8mha:////4HTfwTL4h1PuQMuBJRsVBMTACklvts0wt2tys5ruDmwxAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZu/dLi1CL9xJTczDwAEmIUecAAAAA=[0mSajal jain
+Running as SYSTEM
+Building in workspace E:\TYDemoProject\DemoJenkins
+[DemoJenkins] $ cmd /c call C:\Users\SAJAL\AppData\Local\Temp\jenkins2001238735703816153.bat
+
+E:\TYDemoProject\DemoJenkins>run.bat
+
+E:\TYDemoProject\DemoJenkins>java -cp bin;lib/* org.testng.TestNG testng.xml 
+pass
+
+===============================================
+Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+E:\TYDemoProject\DemoJenkins>pause
+Press any key to continue . . . 
+Finished: SUCCESS

@@ -1,0 +1,19 @@
+Started by timer
+Running as SYSTEM
+Building in workspace E:\TYDemoProject\DemoJenkins
+[DemoJenkins] $ cmd /c call C:\Users\SAJAL\AppData\Local\Temp\jenkins1017885647337541611.bat
+
+E:\TYDemoProject\DemoJenkins>run.bat
+
+E:\TYDemoProject\DemoJenkins>java -cp bin;lib/* org.testng.TestNG testng.xml 
+pass
+
+===============================================
+Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+E:\TYDemoProject\DemoJenkins>pause
+Press any key to continue . . . 
+Finished: SUCCESS
